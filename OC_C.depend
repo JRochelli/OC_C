@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1577093344 source:c:\users\adminetu\documents\oc_c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1577093306 source:c:\users\adminetu\documents\oc_c\tableau.c
+	<stdio.h>
+	<stdlib.h>
+
+1587648260 source:d:\oc_c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1587648192 source:d:\oc_c\char.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1587647804 source:d:\oc_c\tableau.c
+	<stdio.h>
+	<stdlib.h>
+	"tableau.h"
+
+1577099052 d:\oc_c\tableau.h
+
+1587650094 source:d:\oc_c\personne.c
+	<stdio.h>
+	<stdlib.h>
+	"personne.h"
+
+1587649438 d:\oc_c\personne.h
+
